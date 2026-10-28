@@ -1,0 +1,14 @@
+{
+  "name": "Pengurusan PRS SK Jawi",
+  "short_name": "PRS SK Jawi",
+  "description": "Pengurusan Pembimbing Rakan Sebaya SK Jawi – Memperkasakan Kepimpinan PRS",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#4B2380",
+  "theme_color": "#4B2380",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
